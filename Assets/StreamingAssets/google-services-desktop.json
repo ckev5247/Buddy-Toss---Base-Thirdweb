@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "803025134260",
+    "firebase_url": "https://body-toss.firebaseio.com",
+    "project_id": "body-toss",
+    "storage_bucket": "body-toss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803025134260:android:c0294dc3ab943ed3",
+        "android_client_info": {
+          "package_name": "com.buddy.buddytoss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803025134260-dm9k55353f8hub47o026pe7ff9dfnu96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiLungY5OPgus3s0Yz0jnGU_-fUcA9moc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
